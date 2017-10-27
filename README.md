@@ -2,4 +2,4 @@
 this is the remote repository
 file added by user b
 
-brian local machine edit
+brian remote edit
